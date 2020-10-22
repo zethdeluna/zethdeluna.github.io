@@ -133,7 +133,7 @@
 		font-weight: 300;
 		line-height: 2;
 		letter-spacing: 0.2em;
-		text-transform: uppercase;
+		text-transform: none;
 	}
 	input, select, textarea {
 		text-transform: none !important;
